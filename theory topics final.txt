@@ -1,0 +1,23 @@
+Supervised learning vs. unsupervised learning.
+Clustering.
+K-means clustering.
+K-means algorithm.
+Strengths of k-means.
+Weaknesses of k-means.
+Support vector machines.
+Support Vectors.
+What is a hyperplane?
+How do we find the right hyperplane?
+slack variables.
+overvie of Polynomial kernel, Sigmoid kernel, Gaussian kernel.
+Principal Component Analysis(PCA).
+Neural Network (NN), the structure of a neural network. Basic definition and preliminaries.
+Compare Multi-layer perceptron and SLP.
+Mention all the steps of PCA. Explain eigenvalues and eigenvectors.
+characteristics of K means, SVM and PCA.
+Computer Vision vs Deep Learning vs Machine Learning.
+Compare SVM, Linear Regression, Logistic Regression.
+Why F1 score is better than accuracy.
+Describe AUC and ROC.
+Generative vs Discriminative classifier.
+Cross validation and hypothesis testing.
